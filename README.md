@@ -11,7 +11,13 @@
 
 🖼 **Visual presentation**
 
-
+<div>
+test
+<svg version="1.1" xmlns="http://www.javatpoint.org/2000/svg"    xmlns:xlink="http://www.javatpoint.org/1999/xlink" width="500" height="500">
+<image width="100" height="146" xlink:href="https://raw.githubusercontent.com/danilw/danilw/master/images/s/1.jpg" />
+<animate attributeName="opacity" values="0;1;0" dur="4s" keyTimes="0;0.5;1" repeatCount="indefinite" />
+</svg>  
+</div>
 
 Contact - message me anywhere, I'll respond.
 
