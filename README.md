@@ -2,7 +2,7 @@
 
 <h3 align="left">Graphic programming, GLSL and Godot projects.</h3>
 
-COntact - message me anywhere, I'll respond.
+Contact - message me anywhere, I'll respond.
 
 <p align="left">
 <a href="https://twitter.com/arugl" target="blank"><img align="center" src="https://raw.githubusercontent.com/danilw/danilw/master/icons/twitter.svg" alt="arugl" height="30" width="40" /></a>
