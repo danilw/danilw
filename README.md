@@ -9,6 +9,7 @@
 - [Games in the GPU shaders](https://arugl.medium.com/games-in-the-gpu-shaders-a912414b1894) links to my interactive GPU shaders, can be used as example of creating interactive stuff on the GPU
 - [Animations with shader programming](https://arugl.medium.com/examples-of-glsl-animations-2a82a64cb165) list of my animations made using shaders, youtube and shaders links
 
+🖼 **Visual presentation**
 
 
 
