@@ -2,6 +2,16 @@
 
 <h3 align="left">Graphic programming, GLSL and Godot projects.</h3>
 
+📕 **Blog Posts**
+
+- [Float precision on GPU, bugs/features](https://arugl.medium.com/float-precision-on-gpu-bugs-features-178ddd030f) technicall info
+- [Launching 619 thousand Tetris on GPU](https://medium.com/geekculture/launching-619-thousand-tetris-on-gpu-their-rendering-and-a-simple-bot-f2449b607db1) one of my first shaders description
+- [Games in the GPU shaders](https://arugl.medium.com/games-in-the-gpu-shaders-a912414b1894) links to my interactive GPU shaders, can be used as example of creating interactive stuff on the GPU
+- [Animations with shader programming](https://arugl.medium.com/examples-of-glsl-animations-2a82a64cb165) list of my animations made using shaders, youtube and shaders links
+
+
+
+
 Contact - message me anywhere, I'll respond.
 
 <p align="left">
