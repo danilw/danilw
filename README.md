@@ -11,21 +11,32 @@
 
 🖼 **Visual presentation**
 
+<div align="center">
+	<br>
+	<a href="https://github.com/danilw">
+		<img src="images/s.svg" width="800" height="400" alt="test">
+	</a>
+	<br>
+</div>
+
+
 <div>
 test
 <svg version="1.1" xmlns="http://www.javatpoint.org/2000/svg"    xmlns:xlink="http://www.javatpoint.org/1999/xlink" width="500" height="500">
-<image width="100" height="146" xlink:href="https://raw.githubusercontent.com/danilw/danilw/master/images/s/1.jpg" />
+<image width="100" height="146" xlink:href="images/s/1.jpg" />
 <animate attributeName="opacity" values="0;1;0" dur="4s" keyTimes="0;0.5;1" repeatCount="indefinite" />
 </svg>  
 </div>
 
+
+
 Contact - message me anywhere, I'll respond.
 
 <p align="left">
-<a href="https://twitter.com/arugl" target="blank"><img align="center" src="https://raw.githubusercontent.com/danilw/danilw/master/icons/twitter.svg" alt="arugl" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arugl" target="blank"><img align="center" src="https://raw.githubusercontent.com/danilw/danilw/master/icons/linked-in-alt.svg" alt="arugl" height="30" width="40" /></a>
-<a href="https://medium.com/@arugl" target="blank"><img align="center" src="https://raw.githubusercontent.com/danilw/danilw/master/icons/medium.svg" alt="@arugl" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/morimea" target="blank"><img align="center" src="https://raw.githubusercontent.com/danilw/danilw/master/icons/youtube.svg" alt="morimea" height="30" width="40" /></a>
+<a href="https://twitter.com/arugl" target="blank"><img align="center" src="icons/twitter.svg" alt="arugl" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arugl" target="blank"><img align="center" src="icons/linked-in-alt.svg" alt="arugl" height="30" width="40" /></a>
+<a href="https://medium.com/@arugl" target="blank"><img align="center" src="icons/medium.svg" alt="@arugl" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/morimea" target="blank"><img align="center" src="icons/youtube.svg" alt="morimea" height="30" width="40" /></a>
 </p>
 
 
