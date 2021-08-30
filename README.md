@@ -11,16 +11,9 @@
 
 🖼 **Visual presentation**
 
-<div align="center">
-	<br>
-	<a href="https://github.com/danilw">
-		<img src="https://danilw.github.io/GLSL-howto/images_readme/s.svg" width="150" height="100" alt="test">
-	</a>
-	<br>
-</div>
-
-![test](https://danilw.github.io/GLSL-howto/images_readme/s.svg)
-
+<!--
+![test](s.svg)
+-->
 
 
 
