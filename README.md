@@ -11,9 +11,9 @@
 
 🖼 **Visual presentation**
 
-
-[![Shadertoy](s.svg)](https://www.shadertoy.com/user/morimea)
 <!--
+[![Shadertoy](s.svg)](https://www.shadertoy.com/user/morimea)
+
 [![Youtube](y.svg)](https://www.youtube.com/c/morimea)
 -->
 
