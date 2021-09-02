@@ -1,10 +1,4 @@
+## just test, look this SVG code for more info
 
-      
-### just test, look this SVG code for more info
+<img align="center" src="https://danilw.github.io/GLSL-howto/y.svg" height="670" width="670" />
 
-![y.svg](https://danilw.github.io/GLSL-howto/y.svg)
-
-
-Interesting that clicking on ^ SVG make images not load
-
-When direct link works [y.svg](https://danilw.github.io/GLSL-howto/y.svg)
