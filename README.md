@@ -2,8 +2,6 @@
 
 <h3 align="left">Graphic programming, GLSL and Godot projects.</h3>
 
-![svg_links](y.svg)
-
 📕 **Blog Posts**
 
 - [Float precision on GPU, bugs/features](https://arugl.medium.com/float-precision-on-gpu-bugs-features-178ddd030f) technical info
@@ -20,7 +18,11 @@ Contact - **message me anywhere, I'll respond**.
 <a href="https://www.youtube.com/c/morimea" target="blank"><img align="center" src="icons/youtube.svg" alt="morimea" height="30" width="40" /></a>
 </p>
 
+🖼 **Visual presentation**
 
+<!--
+![svg_links](https://danilw.github.io/GLSL-howto/y.svg)
+-->
 
 <!--
 **danilw/danilw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
