@@ -2,6 +2,8 @@
 
 <h3 align="left">Graphic programming, GLSL and Godot projects.</h3>
 
+![svg_links](y.svg)
+
 📕 **Blog Posts**
 
 - [Float precision on GPU, bugs/features](https://arugl.medium.com/float-precision-on-gpu-bugs-features-178ddd030f) technical info
@@ -9,17 +11,7 @@
 - [Games in the GPU shaders](https://arugl.medium.com/games-in-the-gpu-shaders-a912414b1894) links to my interactive GPU shaders, can be used as example of creating interactive stuff on the GPU
 - [Animations with shader programming](https://arugl.medium.com/examples-of-glsl-animations-2a82a64cb165) list of my animations made using shaders, youtube and shaders links
 
-🖼 **Visual presentation**
-
-<!--
-[![Shadertoy](s.svg)](https://www.shadertoy.com/user/morimea)
-
-[![Youtube](y.svg)](https://www.youtube.com/c/morimea)
--->
-
-
-
-Contact - message me anywhere, I'll respond.
+Contact - **message me anywhere, I'll respond**.
 
 <p align="left">
 <a href="https://twitter.com/arugl" target="blank"><img align="center" src="icons/twitter.svg" alt="arugl" height="30" width="40" /></a>
@@ -43,4 +35,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+🖼 **Visual presentation**
+
 -->
