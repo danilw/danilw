@@ -33,3 +33,6 @@
 
 Contact - **message me anywhere, I'll respond**.
 
+Or `s48gs.w <at> gmail {dot} com`
+
+
