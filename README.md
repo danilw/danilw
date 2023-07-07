@@ -30,6 +30,7 @@
 - **[Launching 619 thousand Tetris on GPU](https://medium.com/geekculture/launching-619-thousand-tetris-on-gpu-their-rendering-and-a-simple-bot-f2449b607db1)**
 - **[Games in the GPU shaders](https://arugl.medium.com/games-in-the-gpu-shaders-a912414b1894)**
 - **[Animations with shader programming](https://arugl.medium.com/examples-of-glsl-animations-2a82a64cb165)**
+- [github mirror of medium blog](https://github.com/danilw/danilw.github.io/tree/master/blog)
 
 Contact - **message me anywhere, I'll respond**.
 
