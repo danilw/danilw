@@ -41,9 +41,7 @@ Or `s48gs.w <at> gmail {dot} com`
 
 **Since September 2023 I may not have access to this github account** for reason:
 
-<img src="xd.png" alt="xdpng" align="left" />
-
-Github will force 2fa in September 2023 and I can not do it because [this reason](dx.png).
+<a href="xd.png" >Github will force 2fa</a> in September 2023 and I can not do it because <a href="dx.png" >this reason</a>.
 Contact email still should works, or look/search for other accounts where I will stay active.
 
 </div>
