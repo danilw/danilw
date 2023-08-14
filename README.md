@@ -36,7 +36,7 @@ Contact - **message me anywhere, I'll respond**.
 
 Or `s48gs.w <at> gmail {dot} com`
 
-# Note 2023+:
+ Note 2023+:
 **Since September 2023 I may not have access to this github account** for reason:
 ![xd](xd.png)
 
