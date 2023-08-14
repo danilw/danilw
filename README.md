@@ -36,4 +36,10 @@ Contact - **message me anywhere, I'll respond**.
 
 Or `s48gs.w <at> gmail {dot} com`
 
+# Note 2023+:
+**Since September 2023 I may not have access to this github account** for reason:
+![xd](xd.png)
+
+Github will force 2fa in September 2023 and I can not do it because [this reason](dx.png).
+Contact email still should works, or look/search for other accounts where I will stay active.
 
