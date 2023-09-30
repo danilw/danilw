@@ -21,7 +21,9 @@
 </table>
 
 <div>
+  
 <h2 align="left">Hi there 👋</h2>
+
 <h3 align="left">Graphic programming, GLSL and Godot projects.</h3>
 
       
