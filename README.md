@@ -3,6 +3,7 @@
   <tr>
     <td>
     <center>
+      <br/><br/>
       <a href="https://www.youtube.com/c/morimea/videos" target="blank"><img src="y_min.svg" alt="youtube" align="left" /></a>
       <dl>
        <dt><b>Shadertoy page</b></dt>
