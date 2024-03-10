@@ -20,9 +20,7 @@
   </tr>
 </table>
 
-<table align="left" >
-<tr>
-<td>
+<div>
 <div display="inherit"><h2 align="left">Hi there 👋</h2></div>
 
 <h3 align="left">Graphic programming, GLSL and Godot projects.</h3>
@@ -39,6 +37,4 @@
 Contact - **message me anywhere, I'll respond**.
 
 Or `s48gs.w <at> gmail {dot} com` 
-</td>
-</tr>
-</table>
+</div>
