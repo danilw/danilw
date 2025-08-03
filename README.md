@@ -35,7 +35,14 @@
 - **[Animations with shader programming](https://arugl.medium.com/examples-of-glsl-animations-2a82a64cb165)**
 - [github mirror of medium blog](https://github.com/danilw/danilw.github.io/tree/master/blog)
 
-Contact - **message me anywhere, I'll respond**.
+___
 
-Or `s48gs.w <at> gmail {dot} com` 
+👏 **Contact**:
+
+Matrix-chat room `#Shadertoy:envs.net` </br>
+invite link [matrix.to](https://matrix.to/#/#Shadertoy:envs.net) </br>
+or web [element.io](https://app.element.io/#/room/%23Shadertoy%3Aenvs.net?via=envs.net)
+
+<i>or email</i> `s48gs.w <at> gmail {dot} com` 
+
 </div>
