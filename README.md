@@ -39,9 +39,8 @@ ___
 
 👏 **Contact**:
 
-Matrix-chat room `#Shadertoy:envs.net` </br>
-invite link [matrix.to](https://matrix.to/#/#Shadertoy:envs.net) </br>
-or web [element.io](https://app.element.io/#/room/%23Shadertoy%3Aenvs.net?via=envs.net)
+*Realtime comminication* - `#shadertoy:matrix.org` </br>
+invite link [matrix.to](https://matrix.to/#/#shadertoy:matrix.org) </br>
 
 <i>or email</i> `s48gs.w <at> gmail {dot} com` 
 
